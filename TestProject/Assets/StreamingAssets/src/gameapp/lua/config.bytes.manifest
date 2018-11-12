@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2327014272
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1bafe713fb888b0148e3285fd4ba2ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/luaroot/config/MailBaseConfig.bytes
+- Assets/luaroot/config/MapPonitConfig.bytes
+- Assets/luaroot/config/HeroTierupConfig.bytes
+- Assets/luaroot/config/TipsConfig.bytes
+- Assets/luaroot/config/TipConstConfig.bytes
+- Assets/luaroot/config/PVEChapterConfig.bytes
+- Assets/luaroot/config/BattleGroundConfig.bytes
+- Assets/luaroot/config/HeroLvLimitConfig.bytes
+- Assets/luaroot/config/HeroEquipPartsConfig.bytes
+- Assets/luaroot/config/HeroAttributeTypeConfig.bytes
+- Assets/luaroot/config/QualityColorConfig.bytes
+- Assets/luaroot/config/HeroCampAuraConfig.bytes
+- Assets/luaroot/config/HeroSkillConfig.bytes
+- Assets/luaroot/config/ItemConfig.bytes
+- Assets/luaroot/config/HeroSkillLvupConfig.bytes
+- Assets/luaroot/config/HeroArtifactConfig.bytes
+- Assets/luaroot/config/HeroLvUpConfig.bytes
+- Assets/luaroot/config/HeroEquipConfig.bytes
+- Assets/luaroot/config/JumpTypeConfig.bytes
+- Assets/luaroot/config/HeroEquipGroupConfig.bytes
+- Assets/luaroot/config/HeroConfig.bytes
+- Assets/luaroot/config/HeroQualityConfig.bytes
+- Assets/luaroot/config/BattleBgConfig.bytes
+- Assets/luaroot/config/HeroCampAuraLvConfig.bytes
+- Assets/luaroot/config/SysMusicConfig.bytes
+- Assets/luaroot/config/HeroSkillBuffConfig.bytes
+- Assets/luaroot/config/HeroCampConfig.bytes
+- Assets/luaroot/config/HeroProfessionConfig.bytes
+Dependencies: []

@@ -1,0 +1,29 @@
+local Config =
+{
+    [1]=
+    {
+      id=1,
+      rgb="#43df29"
+    },
+    [2]=
+    {
+      id=2,
+      rgb="#29b6df"
+    },
+    [3]=
+    {
+      id=3,
+      rgb="#c729df"
+    },
+    [4]=
+    {
+      id=4,
+      rgb="#ffcf11"
+    },
+    [5]=
+    {
+      id=5,
+      rgb="#ff0000"
+    }
+}
+return Config

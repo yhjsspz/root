@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: b5f0785baf83cab4bbacd3aaa65def9b
+timeCreated: 1531203665
+licenseType: Free
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: gameapp/lua/app/model.bytes
+  assetBundleVariant: 

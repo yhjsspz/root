@@ -1,0 +1,49 @@
+[
+  {
+    "type_id": 4,
+    "ani_action_name": "skill_1",
+    "ani_action_type": 1,
+    "ani_action_value": 1.0,
+    "end_type": 2,
+	"order_type": 0
+  },
+  {
+    "type_id": 5,
+    "ani_play_time": 0.3,
+    "ani_path": "xiaohuoqiua",
+    "start_pos_type": 1,
+    "start_pos_offset": [
+      1,
+      150,
+      60
+    ],
+    "end_pos_type": 1,
+    "end_pos_offset": [
+      1,
+      -10,
+      60
+    ],
+    "end_type": 0,
+    "layer_type": 0,
+    "ease": 5,
+    "is_listen_gethit": 0,
+    "scale": 0.8
+  },
+  {
+    "type_id": 7,
+    "target_pos_type": 1,
+    "offset": [
+      1,
+      0,
+      60
+    ],
+    "ani_path": "baozhaa",
+    "ani_action_type": 1,
+    "ani_action_value": 1.0,
+    "end_type": 0,
+    "layer_type": 0,
+    "is_listen_gethit": 1,
+    "scale": 0.6,
+    "rgba": "1,1,1,0.7"
+  }
+]

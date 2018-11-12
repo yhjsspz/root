@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2738795810
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20e8bda5e2c5169f635aa51aa8e09d84
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/luaroot/app/handler/battleHandler.bytes
+Dependencies: []

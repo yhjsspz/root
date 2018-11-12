@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2028305570
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5df080271bb7e61d02953dd6e06ef571
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/DongTai/Skill/skillicon_0003.png
+Dependencies: []

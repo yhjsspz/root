@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 4214243707
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70e8b302bf2022020dd5e0c24e70f828
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f5f72e227be8e50077cb63ab72d9f53
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/Font/battlenum_4/battlenum_4.fontsettings
+- Assets/res/Default/Font/battlenum_4/battlenum_4.png
+- Assets/res/Default/Font/battlenum_4/battlenum_4.mat
+Dependencies: []

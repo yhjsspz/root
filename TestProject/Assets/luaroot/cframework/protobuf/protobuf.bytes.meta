@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7d627e64f2b9a9c449ffe4e127f2d9bd
+timeCreated: 1531203665
+licenseType: Free
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: gameapp/lua/cframework/protobuf.bytes
+  assetBundleVariant: 

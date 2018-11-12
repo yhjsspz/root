@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 75bc63bac667840498d8ce859c4251df
+timeCreated: 1531203665
+licenseType: Free
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: gameapp/lua/cframework/mvc.bytes
+  assetBundleVariant: 

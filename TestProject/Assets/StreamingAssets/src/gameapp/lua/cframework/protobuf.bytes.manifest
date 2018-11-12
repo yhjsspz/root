@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1885485060
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65a3e68f73305088c8f2ed58013ee0da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/luaroot/cframework/protobuf/protobuf.bytes
+Dependencies: []

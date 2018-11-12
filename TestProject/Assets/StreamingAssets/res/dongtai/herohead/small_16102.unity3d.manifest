@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3171228910
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 634f4193b06b846b52757a6af29a37ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/DongTai/HeroHead/small_16102.png
+Dependencies: []

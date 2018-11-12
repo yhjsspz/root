@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: e553b7b6daaffe441a17654e4bcdb6ab
+timeCreated: 1531203666
+licenseType: Free
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: tolua/cjson.bytes
+  assetBundleVariant: 

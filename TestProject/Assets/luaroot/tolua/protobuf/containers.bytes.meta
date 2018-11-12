@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 599e45573467f8f4790502d3eebc2878
+timeCreated: 1531203664
+licenseType: Free
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: tolua/protobuf.bytes
+  assetBundleVariant: 

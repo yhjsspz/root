@@ -1,0 +1,39 @@
+local Config =
+{
+    [1]=
+    {
+      id=1,
+      max_tier=0
+    },
+    [2]=
+    {
+      id=2,
+      max_tier=1
+    },
+    [3]=
+    {
+      id=3,
+      max_tier=2
+    },
+    [4]=
+    {
+      id=4,
+      max_tier=3
+    },
+    [5]=
+    {
+      id=5,
+      max_tier=4
+    },
+    [6]=
+    {
+      id=6,
+      max_tier=8
+    },
+    [7]=
+    {
+      id=7,
+      max_tier=8
+    }
+}
+return Config

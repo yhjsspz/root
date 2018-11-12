@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3771488927
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61765bca565772614b7af59f214ced9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/UI/LoginWindow/chartlet_chuzheng_02.png
+Dependencies: []

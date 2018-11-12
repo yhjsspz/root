@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2315478176
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 130d06dbe28e2bf4207ac889a8c5e1c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/DongTai/Item/item_55119.png
+Dependencies: []

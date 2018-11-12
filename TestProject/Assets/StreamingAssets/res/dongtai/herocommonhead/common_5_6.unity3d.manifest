@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1049723359
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7ade692b1fcb8f7a80404aa09a1c4f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/DongTai/HeroCommonHead/common_5_6.png
+Dependencies: []

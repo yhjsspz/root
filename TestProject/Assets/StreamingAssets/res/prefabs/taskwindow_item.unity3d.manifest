@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2655169332
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e40d56439e556dba2a94904364aa863
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1994291aeb8ffa844b7745dad93cab70
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/Prefabs/TaskWindow_Item.prefab
+Dependencies:
+- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/font/text.unity3d
+- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/common/button3.unity3d
+- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/common/slider3.unity3d
+- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/common/windowbg.unity3d
+- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/task/taskui.unity3d

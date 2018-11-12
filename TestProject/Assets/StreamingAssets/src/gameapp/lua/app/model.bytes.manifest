@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2281553367
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc63ea1009f1f84c17a9ceac40424261
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/luaroot/app/model/commonData.bytes
+- Assets/luaroot/app/model/battleData.bytes
+- Assets/luaroot/app/model/itemData.bytes
+- Assets/luaroot/app/model/heroData.bytes
+Dependencies: []

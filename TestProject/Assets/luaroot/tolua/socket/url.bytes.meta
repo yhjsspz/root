@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 486712a4dee8f05479dba1fea1458a44
+timeCreated: 1531203664
+licenseType: Free
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: tolua/socket.bytes
+  assetBundleVariant: 

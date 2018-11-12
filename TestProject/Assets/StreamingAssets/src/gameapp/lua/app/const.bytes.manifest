@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2997651728
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04569eb0bfa350a17d860cd05ad92625
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/luaroot/app/const/command.bytes
+- Assets/luaroot/app/const/message.bytes
+- Assets/luaroot/app/const/const.bytes
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 435263450
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 002035557b74d8b6070d216899dc88b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/luaroot/tolua/UnityEngine/Quaternion.bytes
+- Assets/luaroot/tolua/UnityEngine/Plane.bytes
+- Assets/luaroot/tolua/UnityEngine/LayerMask.bytes
+- Assets/luaroot/tolua/UnityEngine/Touch.bytes
+- Assets/luaroot/tolua/UnityEngine/Vector3.bytes
+- Assets/luaroot/tolua/UnityEngine/Color.bytes
+- Assets/luaroot/tolua/UnityEngine/RaycastHit.bytes
+- Assets/luaroot/tolua/UnityEngine/Vector4.bytes
+- Assets/luaroot/tolua/UnityEngine/Time.bytes
+- Assets/luaroot/tolua/UnityEngine/Mathf.bytes
+- Assets/luaroot/tolua/UnityEngine/Ray.bytes
+- Assets/luaroot/tolua/UnityEngine/Vector2.bytes
+- Assets/luaroot/tolua/UnityEngine/Bounds.bytes
+- Assets/luaroot/tolua/UnityEngine/Profiler.bytes
+Dependencies: []

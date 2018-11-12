@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2366797797
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1aa1360703c1f67c8864a9476582e35d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/luaroot/tolua/jit/dis_mips64el.bytes
+- Assets/luaroot/tolua/jit/p.bytes
+- Assets/luaroot/tolua/jit/dis_mips.bytes
+- Assets/luaroot/tolua/jit/vmdef.bytes
+- Assets/luaroot/tolua/jit/dis_mips64.bytes
+- Assets/luaroot/tolua/jit/dis_x86.bytes
+- Assets/luaroot/tolua/jit/dis_arm.bytes
+- Assets/luaroot/tolua/jit/dis_ppc.bytes
+- Assets/luaroot/tolua/jit/bcsave.bytes
+- Assets/luaroot/tolua/jit/zone.bytes
+- Assets/luaroot/tolua/jit/dis_mipsel.bytes
+- Assets/luaroot/tolua/jit/dis_arm64be.bytes
+- Assets/luaroot/tolua/jit/dis_arm64.bytes
+- Assets/luaroot/tolua/jit/dump.bytes
+- Assets/luaroot/tolua/jit/dis_x64.bytes
+- Assets/luaroot/tolua/jit/v.bytes
+- Assets/luaroot/tolua/jit/bc.bytes
+Dependencies: []

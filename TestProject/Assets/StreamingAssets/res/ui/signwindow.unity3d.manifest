@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3897135735
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b2f04b4182e5911cd12d6d6d5bb4d84
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/UI/SignWindow/11-9.png
+Dependencies: []

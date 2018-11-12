@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3083268636
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 822ef41dba9be9839162e257f7e12781
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/luaroot/tolua/socket/url.bytes
+- Assets/luaroot/tolua/socket/tp.bytes
+- Assets/luaroot/tolua/socket/headers.bytes
+- Assets/luaroot/tolua/socket/mbox.bytes
+- Assets/luaroot/tolua/socket/smtp.bytes
+- Assets/luaroot/tolua/socket/ftp.bytes
+- Assets/luaroot/tolua/socket/http.bytes
+Dependencies: []

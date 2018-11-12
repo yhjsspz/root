@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: e54058f91cc34534fbd86aeeb2678984
+timeCreated: 1531203666
+licenseType: Free
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: tolua/jit.bytes
+  assetBundleVariant: 

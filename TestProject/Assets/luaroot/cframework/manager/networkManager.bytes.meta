@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: bf85f971d06bfea4e97f90c69cf298fe
+timeCreated: 1531203666
+licenseType: Free
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: gameapp/lua/cframework/manager.bytes
+  assetBundleVariant: 

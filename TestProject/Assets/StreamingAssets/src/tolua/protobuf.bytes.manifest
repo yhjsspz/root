@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1388396604
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2b3a1a3724ee4476ad236ed0450a505
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/luaroot/tolua/protobuf/decoder.bytes
+- Assets/luaroot/tolua/protobuf/protobuf.bytes
+- Assets/luaroot/tolua/protobuf/text_format.bytes
+- Assets/luaroot/tolua/protobuf/containers.bytes
+- Assets/luaroot/tolua/protobuf/listener.bytes
+- Assets/luaroot/tolua/protobuf/descriptor.bytes
+- Assets/luaroot/tolua/protobuf/type_checkers.bytes
+- Assets/luaroot/tolua/protobuf/encoder.bytes
+- Assets/luaroot/tolua/protobuf/wire_format.bytes
+Dependencies: []
