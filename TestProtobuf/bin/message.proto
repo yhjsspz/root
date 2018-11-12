@@ -1,0 +1,9 @@
+message C2G_PingRequest_10201 // IRequest
+{
+	required int64 SysTime = 1;
+}
+
+message G2C_PongResponse_10202 // IResponse
+{
+	required int64 SysTime = 1;
+}
