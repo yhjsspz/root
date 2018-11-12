@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3758722378
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd40f131be116f06954a4b2ab595d00d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/UI/BattleUI/xuetiao_01.png
+- Assets/res/Default/UI/BattleUI/zhandou_14.png
+- Assets/res/Default/UI/BattleUI/zhandou_12.png
+- Assets/res/Default/UI/BattleUI/zhandou_13.png
+- Assets/res/Default/UI/BattleUI/zhandou_10.png
+- Assets/res/Default/UI/BattleUI/xuetiao_02.png
+- Assets/res/Default/UI/BattleUI/xuetiao_03.png
+- Assets/res/Default/UI/BattleUI/k_huihe.png
+Dependencies: []

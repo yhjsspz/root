@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1400131582
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49984e9dd062a57269a58413638fe53d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/UI/Common/Slider3/richang_jindutiao.png
+- Assets/res/Default/UI/Common/Slider3/jiangli_jindutiao_1.png
+- Assets/res/Default/UI/Common/Slider3/jiangli_jindutiao_diban_0.png
+- Assets/res/Default/UI/Common/Slider3/jiangli_jindutiao_2.png
+Dependencies: []

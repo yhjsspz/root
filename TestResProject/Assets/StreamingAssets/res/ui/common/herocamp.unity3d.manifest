@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 646278376
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06b1c07dcbee07f4c17937c2827872a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/UI/Common/HeroCamp/k_zhenying.png
+- Assets/res/Default/UI/Common/HeroCamp/xi_06.png
+- Assets/res/Default/UI/Common/HeroCamp/xi_03.png
+- Assets/res/Default/UI/Common/HeroCamp/xi_02.png
+- Assets/res/Default/UI/Common/HeroCamp/xi_01.png
+- Assets/res/Default/UI/Common/HeroCamp/xi_05.png
+- Assets/res/Default/UI/Common/HeroCamp/xi_04.png
+- Assets/res/Default/UI/Common/HeroCamp/xi_07.png
+Dependencies: []

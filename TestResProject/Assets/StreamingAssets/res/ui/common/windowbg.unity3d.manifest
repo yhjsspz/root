@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1001284072
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ae3fda2af64da3ad83af51cc220616a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/UI/Common/WindowBg/T_toumingdiban.png
+- Assets/res/Default/UI/Common/WindowBg/Y_tongyongtaitou_1.png
+- Assets/res/Default/UI/Common/WindowBg/chartlet_touming.png
+- Assets/res/Default/UI/Common/WindowBg/T_tongyongdiban_0.png
+- Assets/res/Default/UI/Common/WindowBg/dingzi.png
+- Assets/res/Default/UI/Common/WindowBg/wupinbeij.png
+- Assets/res/Default/UI/Common/WindowBg/gonghui_shurukuang_diban_1.png
+- Assets/res/Default/UI/Common/WindowBg/gonghuiz_kuang_xuanzhong_1.png
+Dependencies: []

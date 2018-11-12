@@ -1,0 +1,111 @@
+
+wukongc.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guiu
+  rotate: true
+  xy: 1, 180
+  size: 516, 400
+  orig: 550, 400
+  offset: 19, 0
+  index: -1
+sj0001
+  rotate: true
+  xy: 840, 284
+  size: 414, 392
+  orig: 513, 435
+  offset: 49, 43
+  index: -1
+sj0002
+  rotate: false
+  xy: 1490, 1160
+  size: 462, 410
+  orig: 513, 435
+  offset: 25, 25
+  index: -1
+sj0003
+  rotate: false
+  xy: 1, 698
+  size: 513, 434
+  orig: 513, 435
+  offset: 0, 0
+  index: -1
+sj0004
+  rotate: false
+  xy: 1, 1571
+  size: 513, 435
+  orig: 513, 435
+  offset: 0, 0
+  index: -1
+sj0005
+  rotate: false
+  xy: 1031, 1575
+  size: 513, 431
+  orig: 513, 435
+  offset: 0, 0
+  index: -1
+sj0006
+  rotate: false
+  xy: 1, 1134
+  size: 513, 435
+  orig: 513, 435
+  offset: 0, 0
+  index: -1
+sj0007
+  rotate: false
+  xy: 516, 1137
+  size: 513, 432
+  orig: 513, 435
+  offset: 0, 0
+  index: -1
+sj0008
+  rotate: false
+  xy: 516, 1571
+  size: 513, 435
+  orig: 513, 435
+  offset: 0, 0
+  index: -1
+sj0009
+  rotate: false
+  xy: 1546, 1572
+  size: 457, 434
+  orig: 513, 435
+  offset: 21, 0
+  index: -1
+sj0010
+  rotate: false
+  xy: 516, 700
+  size: 463, 435
+  orig: 513, 435
+  offset: 19, 0
+  index: -1
+sj0011
+  rotate: false
+  xy: 1031, 1138
+  size: 457, 435
+  orig: 513, 435
+  offset: 18, 0
+  index: -1
+sj0012
+  rotate: true
+  xy: 403, 258
+  size: 438, 435
+  orig: 513, 435
+  offset: 37, 0
+  index: -1
+sj0013
+  rotate: true
+  xy: 403, 1
+  size: 255, 388
+  orig: 513, 435
+  offset: 126, 47
+  index: -1
+wuqi
+  rotate: true
+  xy: 1, 13
+  size: 165, 396
+  orig: 200, 400
+  offset: 19, 1
+  index: -1

@@ -1,0 +1,97 @@
+
+binci.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bc0001
+  rotate: false
+  xy: 1, 11
+  size: 270, 196
+  orig: 350, 320
+  offset: 27, 22
+  index: -1
+bc0002
+  rotate: false
+  xy: 1274, 13
+  size: 270, 223
+  orig: 350, 320
+  offset: 27, 22
+  index: -1
+bc0003
+  rotate: false
+  xy: 1571, 36
+  size: 287, 230
+  orig: 350, 320
+  offset: 26, 22
+  index: -1
+bc0004
+  rotate: false
+  xy: 1571, 268
+  size: 310, 243
+  orig: 350, 320
+  offset: 18, 22
+  index: -1
+bc0005
+  rotate: false
+  xy: 328, 1
+  size: 326, 245
+  orig: 350, 320
+  offset: 13, 20
+  index: -1
+bc0006
+  rotate: false
+  xy: 328, 248
+  size: 337, 263
+  orig: 350, 320
+  offset: 9, 10
+  index: -1
+bc0007
+  rotate: false
+  xy: 1274, 238
+  size: 295, 273
+  orig: 350, 320
+  offset: 27, 3
+  index: -1
+bc0008
+  rotate: false
+  xy: 973, 228
+  size: 299, 283
+  orig: 350, 320
+  offset: 27, 0
+  index: -1
+bc0009
+  rotate: false
+  xy: 667, 222
+  size: 304, 289
+  orig: 350, 320
+  offset: 27, 0
+  index: -1
+bc0010
+  rotate: false
+  xy: 1, 209
+  size: 325, 302
+  orig: 350, 320
+  offset: 15, 0
+  index: -1
+bc0011
+  rotate: false
+  xy: 656, 72
+  size: 268, 148
+  orig: 350, 320
+  offset: 28, 22
+  index: -1
+bc0012
+  rotate: false
+  xy: 1883, 433
+  size: 118, 78
+  orig: 350, 320
+  offset: 122, 76
+  index: -1
+bc0013
+  rotate: false
+  xy: 1883, 357
+  size: 114, 74
+  orig: 350, 320
+  offset: 124, 78
+  index: -1

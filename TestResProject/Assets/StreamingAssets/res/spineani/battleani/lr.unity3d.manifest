@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 214158834
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7accedcf328adb09d915db9d37e7a52b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 83382861d655c0bbec5fcad36188a024
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/SpineAni/BattleAni/lr/lr_Atlas.asset
+- Assets/res/Default/SpineAni/BattleAni/lr/lr.png
+- Assets/res/Default/SpineAni/BattleAni/lr/lr_Material.mat
+- Assets/res/Default/SpineAni/BattleAni/lr/lr_SkeletonData.asset
+- Assets/res/Default/SpineAni/BattleAni/lr/lr.skel.bytes
+- Assets/res/Default/SpineAni/BattleAni/lr/lr.atlas.txt
+Dependencies: []
