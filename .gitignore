@@ -8,3 +8,5 @@ TestProject.Editor.csproj
 TestProject.Editor.csproj.user
 TestProject.sln
 .vs
+*.csproj
+*.sln
