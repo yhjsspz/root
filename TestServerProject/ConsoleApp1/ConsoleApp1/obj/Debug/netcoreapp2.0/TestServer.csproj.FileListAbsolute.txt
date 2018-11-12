@@ -1,0 +1,11 @@
+F:\LocalSvn\TestServerProject\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\TestServer.deps.json
+F:\LocalSvn\TestServerProject\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\TestServer.runtimeconfig.json
+F:\LocalSvn\TestServerProject\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\TestServer.runtimeconfig.dev.json
+F:\LocalSvn\TestServerProject\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\TestServer.dll
+F:\LocalSvn\TestServerProject\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\TestServer.pdb
+F:\LocalSvn\TestServerProject\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TestServer.csprojResolveAssemblyReference.cache
+F:\LocalSvn\TestServerProject\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TestServer.csproj.CoreCompileInputs.cache
+F:\LocalSvn\TestServerProject\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TestServer.AssemblyInfoInputs.cache
+F:\LocalSvn\TestServerProject\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TestServer.AssemblyInfo.cs
+F:\LocalSvn\TestServerProject\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TestServer.dll
+F:\LocalSvn\TestServerProject\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TestServer.pdb
