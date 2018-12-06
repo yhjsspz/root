@@ -7,7 +7,7 @@ public class CFramework_SdkFuncWrap
 	public static void Register(LuaState L)
 	{
 		L.BeginClass(typeof(CFramework.SdkFunc), typeof(CFramework.Singleton<CFramework.SdkFunc>));
-		L.RegFunction("CsTest", CsTest);
+		L.RegFunction("CallSdk", CallSdk);
 		L.RegFunction("New", _CreateCFramework_SdkFunc);
 		L.RegFunction("__tostring", ToLua.op_ToString);
 		L.EndClass();
@@ -38,14 +38,15 @@ public class CFramework_SdkFuncWrap
 	}
 
 	[MonoPInvokeCallbackAttribute(typeof(LuaCSFunction))]
-	static int CsTest(IntPtr L)
+	static int CallSdk(IntPtr L)
 	{
 		try
 		{
-			ToLua.CheckArgsCount(L, 2);
+			ToLua.CheckArgsCount(L, 3);
 			CFramework.SdkFunc obj = (CFramework.SdkFunc)ToLua.CheckObject<CFramework.SdkFunc>(L, 1);
-			string arg0 = ToLua.CheckString(L, 2);
-			obj.CsTest(arg0);
+			int arg0 = (int)LuaDLL.luaL_checknumber(L, 2);
+			LuaFunction arg1 = ToLua.CheckLuaFunction(L, 3);
+			obj.CallSdk(arg0, arg1);
 			return 0;
 		}
 		catch (Exception e)

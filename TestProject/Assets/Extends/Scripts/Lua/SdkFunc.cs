@@ -1,19 +1,28 @@
-﻿using UnityEngine;
+﻿using LuaInterface;
+using UnityEngine;
 
 namespace CFramework
 {
     public class SdkFunc : Singleton<SdkFunc>
     {
 
+        private LuaFunction callback;
         /// <summary>
-        /// 添加计时器
+        /// 
         /// </summary>
-        public void CsTest(string title)
+        public void CallSdk(int num, LuaFunction updateCallback)
         {
-            AndroidJavaClass aj = new AndroidJavaClass("com.test.SdkManager");
-            int r = aj.CallStatic<int>("androidTest", title);
+            callback = updateCallback;
+            AndroidJavaClass jc = new AndroidJavaClass("com.test.SdkManager");
+            AndroidJavaObject jo = jc.GetStatic<AndroidJavaObject>("currentActivity");
+            int r = jo.Call<int>("androidTest", num, "BeCallFunc");
             DebugManager.Log(r);
         }
-        
+
+        //设置一个回掉方法
+        private void BeCallFunc(string content)
+        {
+            callback.Call(content);
+        }
     }
 }

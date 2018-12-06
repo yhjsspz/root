@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2830577452
+CRC: 2078819334
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 667a8293e1eac19346d550155925d490
+    Hash: bc1dadcba9e2f13269d7549374903194
   TypeTreeHash:
     serializedVersion: 2
     Hash: ec21c223e75b316c11a03a3756010f57
@@ -36,4 +36,4 @@ ClassTypes:
 Assets:
 - Assets/res/Default/Prefabs/DefaultTip.prefab
 Dependencies:
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/common/windowbg.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/common/windowbg.unity3d

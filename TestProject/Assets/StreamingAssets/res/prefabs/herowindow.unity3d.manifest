@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2259964823
+CRC: 3301721338
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5fdcfc075d6205143a0b16ffaea1aa06
+    Hash: e892195a45c3b67c5c77c58aa85b64b5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4bd940233354200563fad300ae30536b
@@ -38,8 +38,8 @@ ClassTypes:
 Assets:
 - Assets/res/Default/Prefabs/HeroWindow.prefab
 Dependencies:
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/font/text.unity3d
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/spineani/battleani/binnvc.unity3d
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/common/button.unity3d
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/common/scenebackgroud1.unity3d
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/common/windowbg.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/font/text.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/spineani/battleani/binnvc.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/common/button.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/common/scenebackgroud1.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/common/windowbg.unity3d

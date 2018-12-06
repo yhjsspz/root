@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2655169332
+CRC: 944216724
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5e40d56439e556dba2a94904364aa863
+    Hash: ac492a86f42b39c93c454154ffb9bc86
   TypeTreeHash:
     serializedVersion: 2
     Hash: 1994291aeb8ffa844b7745dad93cab70
@@ -38,8 +38,8 @@ ClassTypes:
 Assets:
 - Assets/res/Default/Prefabs/TaskWindow_Item.prefab
 Dependencies:
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/font/text.unity3d
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/common/button3.unity3d
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/common/slider3.unity3d
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/common/windowbg.unity3d
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/task/taskui.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/font/text.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/common/button3.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/common/slider3.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/common/windowbg.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/task/taskui.unity3d

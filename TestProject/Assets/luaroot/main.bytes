@@ -18,6 +18,7 @@ function Main()
 		--]]
 	end)
 	
+	Sdk = require("app/Sdk")
 	
 	--注册Data
 	api:registerData("CommonData")

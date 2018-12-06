@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 984702938
+CRC: 1395057992
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ce5f9124e5359334a7a708e2326887ef
+    Hash: 1a09aeec4546c7d1599eaabec7a93d7c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5ad585dd02dfb5016c0dad519eab8f49
@@ -12,5 +12,6 @@ ClassTypes:
 - Class: 49
   Script: {instanceID: 0}
 Assets:
+- Assets/luaroot/app/sdk.bytes
 - Assets/luaroot/app/api.bytes
 Dependencies: []

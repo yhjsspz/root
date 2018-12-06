@@ -14,8 +14,10 @@ function MainWindow:Start()
 		api:openSimpleWindow("HeroWindow")
 	end))
 	
-	self:addEvent(EventType.Click, self.uiRoot.Btn_battle, handler(self, function ()
-		
+	self:addEvent(EventType.Click, self.uiRoot.Btn_sdk, handler(self, function ()
+		Sdk:callSdk(10, function (content)
+			log(content)
+		end)
 	end))
 	
 	self:bindData()

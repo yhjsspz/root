@@ -82,8 +82,12 @@ namespace CFramework
                     //资源解压完成
 
                     //最后复制file.t
-                    File.Copy(FileUtil.Instance.GetResPath("file.t"), FileUtil.Instance.GetWritePath("file.t"), true);
-                    StartCoroutine(StartUpdate());
+                    string[] tmp = new string[1];
+                    tmp[0] = "file.t";
+                    CopyStreamingFileToPersistentDataPath(tmp, delegate() {
+                        StartCoroutine(StartUpdate());
+
+                    });
 
                     
                 });

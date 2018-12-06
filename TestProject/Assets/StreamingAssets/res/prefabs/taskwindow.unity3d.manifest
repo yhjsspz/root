@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4171606642
+CRC: 2067116378
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d2fea7ee344c7c533970aca2e0b3271a
+    Hash: 9fd13558bd1c1c2a1a75e33a8dc8410a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 18b37e3fcb05d923589365db113376fa
@@ -40,7 +40,7 @@ ClassTypes:
 Assets:
 - Assets/res/Default/Prefabs/TaskWindow.prefab
 Dependencies:
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/font/text.unity3d
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/common/button.unity3d
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/common/scenebackgroud1.unity3d
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/common/windowbg.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/font/text.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/common/button.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/common/scenebackgroud1.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/common/windowbg.unity3d

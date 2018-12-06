@@ -11,11 +11,11 @@ function LoginWindow:Start()
 	
 --	self:addEvent(EventType.Click, self.uiRoot.Btn_close, handler(self, self.doClose))
 	self:addEvent(EventType.Click, self.uiRoot.Btn_enter, handler(self, function ()
-		log(self.uiRoot.Ipt_name:GetComponent("InputField").text)
+		log("text", self.uiRoot.Ipt_name:GetComponent("InputField").text)
 		
-		api:sendCommand(10201, {SysTime=111})
+--		api:sendCommand(10201, {SysTime=111})
 		
---		api:enterMainScene()
+		api:enterMainScene()
 	end))
 	
 	
