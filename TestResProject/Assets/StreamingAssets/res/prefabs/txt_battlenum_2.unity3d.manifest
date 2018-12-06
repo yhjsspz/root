@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3910212598
+CRC: 2282932323
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 872b3f409793ee6aff6d4167c109881d
+    Hash: 83d800df77fa33bff9bb0706963ce699
   TypeTreeHash:
     serializedVersion: 2
     Hash: a8d2dc5fd327d52079fdb17c21c3286f
@@ -26,4 +26,4 @@ ClassTypes:
 Assets:
 - Assets/res/Default/Prefabs/Txt_Battlenum_2.prefab
 Dependencies:
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/font/battlenum_2.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/font/battlenum_2.unity3d

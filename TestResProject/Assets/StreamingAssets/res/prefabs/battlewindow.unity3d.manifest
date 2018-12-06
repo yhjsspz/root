@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3038159660
+CRC: 2061246036
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d9f68996502623963f2a916d8cd272f2
+    Hash: 4052fa893dfa568cfea347d5a5ef4aed
   TypeTreeHash:
     serializedVersion: 2
     Hash: 14f1cc6b2613a53d4b7b24dbcdbdc4ca
@@ -36,4 +36,4 @@ ClassTypes:
 Assets:
 - Assets/res/Default/Prefabs/BattleWindow.prefab
 Dependencies:
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/common/button.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/common/button.unity3d

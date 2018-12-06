@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4169120014
+CRC: 2617682459
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 79b60c772f7c0311076d620c9db6f083
+    Hash: 38163534f78b6076811ae2579f6790af
   TypeTreeHash:
     serializedVersion: 2
     Hash: e52398d22b9df0570e25fbe5e1e5e690
@@ -38,4 +38,4 @@ ClassTypes:
 Assets:
 - Assets/res/Default/Prefabs/BagWindow_Item.prefab
 Dependencies:
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/common/button.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/common/button.unity3d

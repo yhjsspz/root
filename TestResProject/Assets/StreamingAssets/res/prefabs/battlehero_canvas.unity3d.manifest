@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 748834643
+CRC: 2023982089
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 856f1af95cd3e4d1e897bfd2acc727c5
+    Hash: 3a8c6d78d5e1521e9f2a7912d5d9d3e9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 38467144f999a9570cbd1f428a8a3972
@@ -34,5 +34,5 @@ ClassTypes:
 Assets:
 - Assets/res/Default/Prefabs/BattleHero_canvas.prefab
 Dependencies:
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/battleui.unity3d
-- F:/LocalSvn/TestResProject/Assets/StreamingAssets/res/ui/common/button.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/battleui.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/common/button.unity3d
