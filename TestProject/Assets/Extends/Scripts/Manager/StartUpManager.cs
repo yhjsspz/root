@@ -75,20 +75,17 @@ namespace CFramework
 
                 www.Dispose();
 
-                _copyNum = files.Length;
+                List<string> list = new List<string>(files);
+                list.Add("file.t");
+                string[] newFiles = list.ToArray();
+
+                _copyNum = newFiles.Length;
                 _copyNumCur = 0;
 
-                CopyStreamingFileToPersistentDataPath(files, delegate() {
+                CopyStreamingFileToPersistentDataPath(newFiles, delegate() {
                     //资源解压完成
 
-                    //最后复制file.t
-                    string[] tmp = new string[1];
-                    tmp[0] = "file.t";
-                    CopyStreamingFileToPersistentDataPath(tmp, delegate() {
-                        StartCoroutine(StartUpdate());
-
-                    });
-
+                    StartCoroutine(StartUpdate());
                     
                 });
             }
@@ -191,6 +188,7 @@ namespace CFramework
             LuaManager.Instance.Init();
             NetworkManager.Instance.Init();
             TimerManager.Instance.Init();
+            SdkManager.Instance.Init();
 
             LuaManager.Instance.Startup();
 

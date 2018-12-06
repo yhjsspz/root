@@ -1,4 +1,5 @@
 StreamingAssets|112fc4532f17bb5d79bfea1e58515372
+version.t|25e64aa754c310d45c1e084d574c1bb0
 res/dongtai/battlebg/battlebg_01.unity3d|1ecca56b2cf35ba73a40f8ed3498d430
 res/dongtai/battlebg2/battleground_01.unity3d|cc65307639572dc42d90e1d9427acb87
 res/dongtai/battlebg2/battleground_02.unity3d|676163a969b08454def19d532cca74d7
@@ -225,9 +226,9 @@ res/ui/common/slider4.unity3d|fdc569b479036653ae70992e5ad39d45
 res/ui/common/windowbg.unity3d|1d8587bf1442839b2e50e83bad91a8c4
 res/ui/task/taskui.unity3d|a4bc9444b5dd92a7cd77dcda187186fb
 src/luaroot.bytes|573e8881eb688cb02923eca1ee86542a
-src/src|b6771296984a4ef519d5964980c94cb8
+src/src|8aa5ba1b97ebf55fbec57380862124a6
 src/tolua.bytes|ea8be303a5b93d64f89cd40ed99a5645
-src/gameapp/lua/app.bytes|0e91f39cefe51ad7858832b4bd24a10a
+src/gameapp/lua/app.bytes|834b45f676cc1cdf70b3178e65f93345
 src/gameapp/lua/cframework.bytes|522ece5955bebcfa8479ac988a54c9d0
 src/gameapp/lua/config.bytes|f788688862d1e3dc5c216fd7edebdf47
 src/gameapp/lua/app/const.bytes|af3615372861e6abb1d081a53b37129b
@@ -237,7 +238,7 @@ src/gameapp/lua/app/model.bytes|725544c9d432786e69beee07c8bb8b37
 src/gameapp/lua/app/view.bytes|c77252d28cb95d9dfa438d7cb7c0f6c2
 src/gameapp/lua/app/view/entity.bytes|ab768c12a3f17c3e990d5eb652e9ad95
 src/gameapp/lua/app/view/window.bytes|176d9e5a07e7f82ce3043702c4573df2
-src/gameapp/lua/cframework/init.bytes|27bf38431c5ca3d89002d3e246df1913
+src/gameapp/lua/cframework/init.bytes|5c37ff4113668d9a50c14157cce93e79
 src/gameapp/lua/cframework/manager.bytes|c712ab4f66661414d7a1ca0966b13645
 src/gameapp/lua/cframework/mvc.bytes|3072fee3abf60cfa0480eca64cabcdc7
 src/gameapp/lua/cframework/protobuf.bytes|65575897ae11906050e48790f268b632

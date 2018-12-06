@@ -1,79 +1,79 @@
 ManifestFileVersion: 0
-CRC: 2559462240
+CRC: 2136680367
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: gameapp/lua/app/const.bytes
-      Dependencies: {}
-    Info_1:
-      Name: gameapp/lua/app/controller.bytes
-      Dependencies: {}
-    Info_2:
-      Name: gameapp/lua/app/handler.bytes
-      Dependencies: {}
-    Info_3:
-      Name: gameapp/lua/app/model.bytes
-      Dependencies: {}
-    Info_4:
-      Name: gameapp/lua/app/view/entity.bytes
-      Dependencies: {}
-    Info_5:
-      Name: gameapp/lua/app/view/window.bytes
-      Dependencies: {}
-    Info_6:
-      Name: gameapp/lua/app/view.bytes
-      Dependencies: {}
-    Info_7:
-      Name: gameapp/lua/app.bytes
-      Dependencies: {}
-    Info_8:
-      Name: gameapp/lua/cframework/init.bytes
-      Dependencies: {}
-    Info_9:
-      Name: gameapp/lua/cframework/manager.bytes
-      Dependencies: {}
-    Info_10:
-      Name: gameapp/lua/cframework/mvc.bytes
-      Dependencies: {}
-    Info_11:
-      Name: gameapp/lua/cframework/protobuf.bytes
-      Dependencies: {}
-    Info_12:
-      Name: gameapp/lua/cframework.bytes
-      Dependencies: {}
-    Info_13:
-      Name: gameapp/lua/config.bytes
-      Dependencies: {}
-    Info_14:
-      Name: tolua/cjson.bytes
-      Dependencies: {}
-    Info_15:
-      Name: tolua/jit.bytes
-      Dependencies: {}
-    Info_16:
-      Name: tolua/lpeg.bytes
-      Dependencies: {}
-    Info_17:
-      Name: tolua/misc.bytes
-      Dependencies: {}
-    Info_18:
-      Name: tolua/protobuf.bytes
-      Dependencies: {}
-    Info_19:
-      Name: tolua/socket.bytes
-      Dependencies: {}
-    Info_20:
-      Name: tolua/system/reflection.bytes
-      Dependencies: {}
-    Info_21:
-      Name: tolua/system.bytes
-      Dependencies: {}
-    Info_22:
-      Name: tolua/unityengine.bytes
-      Dependencies: {}
-    Info_23:
       Name: tolua.bytes
       Dependencies: {}
-    Info_24:
+    Info_1:
+      Name: gameapp/lua/app/model.bytes
+      Dependencies: {}
+    Info_2:
+      Name: tolua/jit.bytes
+      Dependencies: {}
+    Info_3:
+      Name: tolua/protobuf.bytes
+      Dependencies: {}
+    Info_4:
+      Name: gameapp/lua/config.bytes
+      Dependencies: {}
+    Info_5:
+      Name: gameapp/lua/app/const.bytes
+      Dependencies: {}
+    Info_6:
+      Name: tolua/misc.bytes
+      Dependencies: {}
+    Info_7:
+      Name: gameapp/lua/app/handler.bytes
+      Dependencies: {}
+    Info_8:
+      Name: tolua/unityengine.bytes
+      Dependencies: {}
+    Info_9:
+      Name: gameapp/lua/app.bytes
+      Dependencies: {}
+    Info_10:
+      Name: gameapp/lua/cframework/manager.bytes
+      Dependencies: {}
+    Info_11:
+      Name: tolua/socket.bytes
+      Dependencies: {}
+    Info_12:
+      Name: gameapp/lua/app/view.bytes
+      Dependencies: {}
+    Info_13:
       Name: luaroot.bytes
+      Dependencies: {}
+    Info_14:
+      Name: gameapp/lua/app/view/window.bytes
+      Dependencies: {}
+    Info_15:
+      Name: tolua/system/reflection.bytes
+      Dependencies: {}
+    Info_16:
+      Name: gameapp/lua/cframework/mvc.bytes
+      Dependencies: {}
+    Info_17:
+      Name: gameapp/lua/app/view/entity.bytes
+      Dependencies: {}
+    Info_18:
+      Name: gameapp/lua/cframework/protobuf.bytes
+      Dependencies: {}
+    Info_19:
+      Name: tolua/system.bytes
+      Dependencies: {}
+    Info_20:
+      Name: gameapp/lua/cframework.bytes
+      Dependencies: {}
+    Info_21:
+      Name: gameapp/lua/cframework/init.bytes
+      Dependencies: {}
+    Info_22:
+      Name: tolua/lpeg.bytes
+      Dependencies: {}
+    Info_23:
+      Name: tolua/cjson.bytes
+      Dependencies: {}
+    Info_24:
+      Name: gameapp/lua/app/controller.bytes
       Dependencies: {}

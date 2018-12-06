@@ -68,7 +68,7 @@ public static class CustomSettings
         _GT(typeof(BaseModule)),
         _GT(typeof(TimerManager)),
         _GT(typeof(ScriptFunc)),
-        _GT(typeof(SdkFunc)),
+        _GT(typeof(SdkManager)),
         _GT(typeof(ResourceManager)),
         _GT(typeof(UITableView)),
         _GT(typeof(UITableViewCell)),

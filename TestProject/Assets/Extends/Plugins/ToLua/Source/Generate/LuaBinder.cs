@@ -25,7 +25,7 @@ public static class LuaBinder
 		CFramework_BaseModuleWrap.Register(L);
 		CFramework_TimerManagerWrap.Register(L);
 		CFramework_ScriptFuncWrap.Register(L);
-		CFramework_SdkFuncWrap.Register(L);
+		CFramework_SdkManagerWrap.Register(L);
 		CFramework_ResourceManagerWrap.Register(L);
 		CFramework_FileUtilWrap.Register(L);
 		CFramework_ByteBufferWrap.Register(L);
@@ -38,7 +38,8 @@ public static class LuaBinder
 		CFramework_BaseManager_CFramework_TimerManagerWrap.Register(L);
 		CFramework_UnitySingleton_CFramework_TimerManagerWrap.Register(L);
 		CFramework_Singleton_CFramework_ScriptFuncWrap.Register(L);
-		CFramework_Singleton_CFramework_SdkFuncWrap.Register(L);
+		CFramework_BaseManager_CFramework_SdkManagerWrap.Register(L);
+		CFramework_UnitySingleton_CFramework_SdkManagerWrap.Register(L);
 		CFramework_BaseManager_CFramework_ResourceManagerWrap.Register(L);
 		CFramework_UnitySingleton_CFramework_ResourceManagerWrap.Register(L);
 		CFramework_Singleton_CFramework_FileUtilWrap.Register(L);
