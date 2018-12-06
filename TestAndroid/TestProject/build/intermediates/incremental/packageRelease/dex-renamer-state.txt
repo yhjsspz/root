@@ -1,0 +1,4 @@
+#Thu Dec 06 21:55:16 CST 2018
+base.0=F\:\\root\\TestAndroid\\TestProject\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\root\\TestAndroid\\TestProject\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

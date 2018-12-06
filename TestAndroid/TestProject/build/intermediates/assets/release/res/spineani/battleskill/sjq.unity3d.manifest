@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 487825835
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ba38a8969e5f3c5f459c86d0ab2d4c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 83382861d655c0bbec5fcad36188a024
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/SpineAni/BattleSkill/sjq/sjq.png
+- Assets/res/Default/SpineAni/BattleSkill/sjq/sjq.skel.bytes
+- Assets/res/Default/SpineAni/BattleSkill/sjq/sjq_Material.mat
+- Assets/res/Default/SpineAni/BattleSkill/sjq/sjq_SkeletonData.asset
+- Assets/res/Default/SpineAni/BattleSkill/sjq/sjq_Atlas.asset
+- Assets/res/Default/SpineAni/BattleSkill/sjq/sjq.atlas.txt
+Dependencies: []

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3479758140
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2df37dcbc5286c0daaaec840f7d88ac8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/UI/Common/Button3/button_box_requirement _2.png
+- Assets/res/Default/UI/Common/Button3/button_box_requirement _1.png
+- Assets/res/Default/UI/Common/Button3/button_box_requirement _4.png
+- Assets/res/Default/UI/Common/Button3/button_box_requirement _0.png
+- Assets/res/Default/UI/Common/Button3/button_box_confirm_1.png
+- Assets/res/Default/UI/Common/Button3/button_box_confirm_2.png
+- Assets/res/Default/UI/Common/Button3/button_box_confirm_4.png
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2006221990
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac46a1fd5c1f4292b47cc96c0c173347
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/DongTai/HeroLong/long_34001.png
+Dependencies: []

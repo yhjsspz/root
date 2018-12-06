@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1401421165
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b72ab4b86879f2efdac982443d465870
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/luaroot/app/view/window/mainWindow.bytes
+- Assets/luaroot/app/view/window/loginWindow.bytes
+- Assets/luaroot/app/view/window/taskWindow.bytes
+- Assets/luaroot/app/view/window/battleWindow.bytes
+- Assets/luaroot/app/view/window/heroWindow.bytes
+- Assets/luaroot/app/view/window/loadingWindow.bytes
+- Assets/luaroot/app/view/window/bagWindow.bytes
+- Assets/luaroot/app/view/window/window1.bytes
+- Assets/luaroot/app/view/window/signWindow.bytes
+- Assets/luaroot/app/view/window/editorWindow.bytes
+Dependencies: []

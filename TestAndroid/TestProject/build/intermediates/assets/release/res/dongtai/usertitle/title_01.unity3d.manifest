@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1004647459
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b96d25ea8c0c25e4b2dc953410bac835
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/DongTai/UserTitle/title_01.png
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 295233792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7414d946e5067040c1e964f9529a2de7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/UI/Task/TaskUI/button_wangchen_01.png
+Dependencies: []

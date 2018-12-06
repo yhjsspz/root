@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1402466871
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c94edd7b88375cb6d6a6c3c378164f9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/DongTai/Herohalf/half_11001.png
+Dependencies: []

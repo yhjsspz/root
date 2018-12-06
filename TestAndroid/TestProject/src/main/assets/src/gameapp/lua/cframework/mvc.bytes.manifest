@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3589235288
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 758a31f76b69164d5d2f277cc8c8f689
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/luaroot/cframework/mvc/baseHandler.bytes
+- Assets/luaroot/cframework/mvc/baseData.bytes
+- Assets/luaroot/cframework/mvc/baseView.bytes
+- Assets/luaroot/cframework/mvc/baseController.bytes
+- Assets/luaroot/cframework/mvc/baseWindow.bytes
+Dependencies: []

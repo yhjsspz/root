@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2112548069
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 091b37c3f2465908f17dd4f675297af1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/UI/Common/Slider4/buzhen_jindutiao_xuetiao_0.png
+- Assets/res/Default/UI/Common/Slider4/buzhen_jindutiao_nuqi_1.png
+- Assets/res/Default/UI/Common/Slider4/shiwusuo_bossshijian_jindutiao_diban_1.png
+- Assets/res/Default/UI/Common/Slider4/buzhen_jindutiao_diban_2.png
+Dependencies: []

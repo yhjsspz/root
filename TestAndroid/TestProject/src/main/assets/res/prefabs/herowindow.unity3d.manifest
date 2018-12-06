@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3301721338
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e892195a45c3b67c5c77c58aa85b64b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bd940233354200563fad300ae30536b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/Prefabs/HeroWindow.prefab
+Dependencies:
+- F:/root/TestResProject/Assets/StreamingAssets/res/font/text.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/spineani/battleani/binnvc.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/common/button.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/common/scenebackgroud1.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/common/windowbg.unity3d

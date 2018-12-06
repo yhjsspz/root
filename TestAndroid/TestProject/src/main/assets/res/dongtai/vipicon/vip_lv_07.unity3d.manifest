@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2950508843
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d4733783e2f8e222fd29805acbe11c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/DongTai/VipIcon/vip_lv_07.png
+Dependencies: []

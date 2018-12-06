@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\root\TestAndroid\TestProject\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b375a689c4555d10c4706d2110f5c9913a6c4a59">
+        <dex dex="F:\root\TestAndroid\TestProject\build\intermediates\pre-dexed\release\unity-classes_6dc8e04518b7a591d5efad6ad63e33e7f884ce81.jar" />
+    </item>
+
+</items>

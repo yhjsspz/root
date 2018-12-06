@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1403917543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 077407ffa5d6fee66af46363a19325ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/UI/Common/Slider2/zhangpu_xuetiao01.png
+- Assets/res/Default/UI/Common/Slider2/zhangpu_xuetiao03.png
+- Assets/res/Default/UI/Common/Slider2/zhangpu_xuetiao02.png
+Dependencies: []

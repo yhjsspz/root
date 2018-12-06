@@ -1,0 +1,535 @@
+ManifestFileVersion: 0
+CRC: 1076566744
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: res/dongtai/battlebg/battlebg_01.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: res/dongtai/battlebg2/battleground_01.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: res/dongtai/battlebg2/battleground_02.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: res/dongtai/battlebg2/battleground_03.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: res/dongtai/battlebg2/battleground_04.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: res/dongtai/battlecampauraicon/campauraicon_001.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: res/dongtai/battlecampauraicon/campauraicon_002.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: res/dongtai/battlecampauraicon/campauraicon_003.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: res/dongtai/battlecampauraicon/campauraicon_004.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: res/dongtai/bufficon/buff_01.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: res/dongtai/bufficon/buff_02.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: res/dongtai/bufficon/buff_03.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: res/dongtai/bufficon/buff_04.unity3d
+      Dependencies: {}
+    Info_13:
+      Name: res/dongtai/herocommonhead/common_1_3.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: res/dongtai/herocommonhead/common_1_4.unity3d
+      Dependencies: {}
+    Info_15:
+      Name: res/dongtai/herocommonhead/common_1_5.unity3d
+      Dependencies: {}
+    Info_16:
+      Name: res/dongtai/herocommonhead/common_1_6.unity3d
+      Dependencies: {}
+    Info_17:
+      Name: res/dongtai/herocommonhead/common_1_7.unity3d
+      Dependencies: {}
+    Info_18:
+      Name: res/dongtai/herocommonhead/common_2_3.unity3d
+      Dependencies: {}
+    Info_19:
+      Name: res/dongtai/herocommonhead/common_2_4.unity3d
+      Dependencies: {}
+    Info_20:
+      Name: res/dongtai/herocommonhead/common_2_5.unity3d
+      Dependencies: {}
+    Info_21:
+      Name: res/dongtai/herocommonhead/common_2_6.unity3d
+      Dependencies: {}
+    Info_22:
+      Name: res/dongtai/herocommonhead/common_2_7.unity3d
+      Dependencies: {}
+    Info_23:
+      Name: res/dongtai/herocommonhead/common_3_3.unity3d
+      Dependencies: {}
+    Info_24:
+      Name: res/dongtai/herocommonhead/common_3_4.unity3d
+      Dependencies: {}
+    Info_25:
+      Name: res/dongtai/herocommonhead/common_3_5.unity3d
+      Dependencies: {}
+    Info_26:
+      Name: res/dongtai/herocommonhead/common_3_6.unity3d
+      Dependencies: {}
+    Info_27:
+      Name: res/dongtai/herocommonhead/common_3_7.unity3d
+      Dependencies: {}
+    Info_28:
+      Name: res/dongtai/herocommonhead/common_4_3.unity3d
+      Dependencies: {}
+    Info_29:
+      Name: res/dongtai/herocommonhead/common_4_4.unity3d
+      Dependencies: {}
+    Info_30:
+      Name: res/dongtai/herocommonhead/common_4_5.unity3d
+      Dependencies: {}
+    Info_31:
+      Name: res/dongtai/herocommonhead/common_4_6.unity3d
+      Dependencies: {}
+    Info_32:
+      Name: res/dongtai/herocommonhead/common_4_7.unity3d
+      Dependencies: {}
+    Info_33:
+      Name: res/dongtai/herocommonhead/common_5_3.unity3d
+      Dependencies: {}
+    Info_34:
+      Name: res/dongtai/herocommonhead/common_5_4.unity3d
+      Dependencies: {}
+    Info_35:
+      Name: res/dongtai/herocommonhead/common_5_5.unity3d
+      Dependencies: {}
+    Info_36:
+      Name: res/dongtai/herocommonhead/common_5_6.unity3d
+      Dependencies: {}
+    Info_37:
+      Name: res/dongtai/herocommonhead/common_5_7.unity3d
+      Dependencies: {}
+    Info_38:
+      Name: res/dongtai/herocommonhead/common_6_3.unity3d
+      Dependencies: {}
+    Info_39:
+      Name: res/dongtai/herocommonhead/common_6_4.unity3d
+      Dependencies: {}
+    Info_40:
+      Name: res/dongtai/herocommonhead/common_6_5.unity3d
+      Dependencies: {}
+    Info_41:
+      Name: res/dongtai/herocommonhead/common_6_6.unity3d
+      Dependencies: {}
+    Info_42:
+      Name: res/dongtai/herocommonhead/common_6_7.unity3d
+      Dependencies: {}
+    Info_43:
+      Name: res/dongtai/herocommonhead/common_7_3.unity3d
+      Dependencies: {}
+    Info_44:
+      Name: res/dongtai/herocommonhead/common_7_4.unity3d
+      Dependencies: {}
+    Info_45:
+      Name: res/dongtai/herocommonhead/common_7_5.unity3d
+      Dependencies: {}
+    Info_46:
+      Name: res/dongtai/herocommonhead/common_7_6.unity3d
+      Dependencies: {}
+    Info_47:
+      Name: res/dongtai/herocommonhead/common_7_7.unity3d
+      Dependencies: {}
+    Info_48:
+      Name: res/dongtai/herohalf/half_11001.unity3d
+      Dependencies: {}
+    Info_49:
+      Name: res/dongtai/herohalf/half_22001.unity3d
+      Dependencies: {}
+    Info_50:
+      Name: res/dongtai/herohalf/half_24001.unity3d
+      Dependencies: {}
+    Info_51:
+      Name: res/dongtai/herohalf/half_31001.unity3d
+      Dependencies: {}
+    Info_52:
+      Name: res/dongtai/herohalf/half_31002.unity3d
+      Dependencies: {}
+    Info_53:
+      Name: res/dongtai/herohalf/half_31003.unity3d
+      Dependencies: {}
+    Info_54:
+      Name: res/dongtai/herohalf/half_34001.unity3d
+      Dependencies: {}
+    Info_55:
+      Name: res/dongtai/herohalf/half_34002.unity3d
+      Dependencies: {}
+    Info_56:
+      Name: res/dongtai/herohalf/half_43001.unity3d
+      Dependencies: {}
+    Info_57:
+      Name: res/dongtai/herohalf/half_55001.unity3d
+      Dependencies: {}
+    Info_58:
+      Name: res/dongtai/herohalf/half_62001.unity3d
+      Dependencies: {}
+    Info_59:
+      Name: res/dongtai/herohalf/half_72001.unity3d
+      Dependencies: {}
+    Info_60:
+      Name: res/dongtai/herohalf/long_24001.unity3d
+      Dependencies: {}
+    Info_61:
+      Name: res/dongtai/herohead/small_16102.unity3d
+      Dependencies: {}
+    Info_62:
+      Name: res/dongtai/herohead/small_26203.unity3d
+      Dependencies: {}
+    Info_63:
+      Name: res/dongtai/herohead/small_36101.unity3d
+      Dependencies: {}
+    Info_64:
+      Name: res/dongtai/herohead/small_46101.unity3d
+      Dependencies: {}
+    Info_65:
+      Name: res/dongtai/heroheadsmall/small_11001.unity3d
+      Dependencies: {}
+    Info_66:
+      Name: res/dongtai/heroheadsmall/small_22001.unity3d
+      Dependencies: {}
+    Info_67:
+      Name: res/dongtai/heroheadsmall/small_24001.unity3d
+      Dependencies: {}
+    Info_68:
+      Name: res/dongtai/heroheadsmall/small_31001.unity3d
+      Dependencies: {}
+    Info_69:
+      Name: res/dongtai/heroheadsmall/small_31002.unity3d
+      Dependencies: {}
+    Info_70:
+      Name: res/dongtai/heroheadsmall/small_31003.unity3d
+      Dependencies: {}
+    Info_71:
+      Name: res/dongtai/heroheadsmall/small_34001.unity3d
+      Dependencies: {}
+    Info_72:
+      Name: res/dongtai/heroheadsmall/small_34002.unity3d
+      Dependencies: {}
+    Info_73:
+      Name: res/dongtai/heroheadsmall/small_43001.unity3d
+      Dependencies: {}
+    Info_74:
+      Name: res/dongtai/heroheadsmall/small_55001.unity3d
+      Dependencies: {}
+    Info_75:
+      Name: res/dongtai/heroheadsmall/small_62001.unity3d
+      Dependencies: {}
+    Info_76:
+      Name: res/dongtai/heroheadsmall/small_72001.unity3d
+      Dependencies: {}
+    Info_77:
+      Name: res/dongtai/herolong/half_24001.unity3d
+      Dependencies: {}
+    Info_78:
+      Name: res/dongtai/herolong/long_11001.unity3d
+      Dependencies: {}
+    Info_79:
+      Name: res/dongtai/herolong/long_22001.unity3d
+      Dependencies: {}
+    Info_80:
+      Name: res/dongtai/herolong/long_24001.unity3d
+      Dependencies: {}
+    Info_81:
+      Name: res/dongtai/herolong/long_31001.unity3d
+      Dependencies: {}
+    Info_82:
+      Name: res/dongtai/herolong/long_31002.unity3d
+      Dependencies: {}
+    Info_83:
+      Name: res/dongtai/herolong/long_31003.unity3d
+      Dependencies: {}
+    Info_84:
+      Name: res/dongtai/herolong/long_34001.unity3d
+      Dependencies: {}
+    Info_85:
+      Name: res/dongtai/herolong/long_34002.unity3d
+      Dependencies: {}
+    Info_86:
+      Name: res/dongtai/herolong/long_43001.unity3d
+      Dependencies: {}
+    Info_87:
+      Name: res/dongtai/herolong/long_55001.unity3d
+      Dependencies: {}
+    Info_88:
+      Name: res/dongtai/herolong/long_62001.unity3d
+      Dependencies: {}
+    Info_89:
+      Name: res/dongtai/herolong/long_72001.unity3d
+      Dependencies: {}
+    Info_90:
+      Name: res/dongtai/item/item_1001.unity3d
+      Dependencies: {}
+    Info_91:
+      Name: res/dongtai/item/item_1003.unity3d
+      Dependencies: {}
+    Info_92:
+      Name: res/dongtai/item/item_55110.unity3d
+      Dependencies: {}
+    Info_93:
+      Name: res/dongtai/item/item_55111.unity3d
+      Dependencies: {}
+    Info_94:
+      Name: res/dongtai/item/item_55112.unity3d
+      Dependencies: {}
+    Info_95:
+      Name: res/dongtai/item/item_55113.unity3d
+      Dependencies: {}
+    Info_96:
+      Name: res/dongtai/item/item_55114.unity3d
+      Dependencies: {}
+    Info_97:
+      Name: res/dongtai/item/item_55115.unity3d
+      Dependencies: {}
+    Info_98:
+      Name: res/dongtai/item/item_55116.unity3d
+      Dependencies: {}
+    Info_99:
+      Name: res/dongtai/item/item_55117.unity3d
+      Dependencies: {}
+    Info_100:
+      Name: res/dongtai/item/item_55118.unity3d
+      Dependencies: {}
+    Info_101:
+      Name: res/dongtai/item/item_55119.unity3d
+      Dependencies: {}
+    Info_102:
+      Name: res/dongtai/item/item_55120.unity3d
+      Dependencies: {}
+    Info_103:
+      Name: res/dongtai/skill/skillicon_0001.unity3d
+      Dependencies: {}
+    Info_104:
+      Name: res/dongtai/skill/skillicon_0002.unity3d
+      Dependencies: {}
+    Info_105:
+      Name: res/dongtai/skill/skillicon_0003.unity3d
+      Dependencies: {}
+    Info_106:
+      Name: res/dongtai/skill/skillicon_0004.unity3d
+      Dependencies: {}
+    Info_107:
+      Name: res/dongtai/usertitle/title_01.unity3d
+      Dependencies: {}
+    Info_108:
+      Name: res/dongtai/vipicon/vip_lv_01.unity3d
+      Dependencies: {}
+    Info_109:
+      Name: res/dongtai/vipicon/vip_lv_02.unity3d
+      Dependencies: {}
+    Info_110:
+      Name: res/dongtai/vipicon/vip_lv_03.unity3d
+      Dependencies: {}
+    Info_111:
+      Name: res/dongtai/vipicon/vip_lv_04.unity3d
+      Dependencies: {}
+    Info_112:
+      Name: res/dongtai/vipicon/vip_lv_05.unity3d
+      Dependencies: {}
+    Info_113:
+      Name: res/dongtai/vipicon/vip_lv_06.unity3d
+      Dependencies: {}
+    Info_114:
+      Name: res/dongtai/vipicon/vip_lv_07.unity3d
+      Dependencies: {}
+    Info_115:
+      Name: res/dongtai/vipicon/vip_lv_08.unity3d
+      Dependencies: {}
+    Info_116:
+      Name: res/dongtai/vipicon/vip_lv_09.unity3d
+      Dependencies: {}
+    Info_117:
+      Name: res/dongtai/vipicon/vip_lv_10.unity3d
+      Dependencies: {}
+    Info_118:
+      Name: res/dongtai/vipicon/vip_lv_11.unity3d
+      Dependencies: {}
+    Info_119:
+      Name: res/dongtai/vipicon/vip_lv_12.unity3d
+      Dependencies: {}
+    Info_120:
+      Name: res/dongtai/vipicon/vip_lv_13.unity3d
+      Dependencies: {}
+    Info_121:
+      Name: res/font/battlenum_1.unity3d
+      Dependencies: {}
+    Info_122:
+      Name: res/font/battlenum_2.unity3d
+      Dependencies: {}
+    Info_123:
+      Name: res/font/battlenum_3.unity3d
+      Dependencies: {}
+    Info_124:
+      Name: res/font/battlenum_4.unity3d
+      Dependencies: {}
+    Info_125:
+      Name: res/font/battlenum_5.unity3d
+      Dependencies: {}
+    Info_126:
+      Name: res/font/text.unity3d
+      Dependencies: {}
+    Info_127:
+      Name: res/prefabs/bagwindow.unity3d
+      Dependencies:
+        Dependency_0: res/font/text.unity3d
+        Dependency_1: res/ui/common/button.unity3d
+        Dependency_2: res/ui/common/scenebackgroud1.unity3d
+        Dependency_3: res/ui/common/windowbg.unity3d
+    Info_128:
+      Name: res/prefabs/bagwindow_item.unity3d
+      Dependencies:
+        Dependency_0: res/ui/common/button.unity3d
+    Info_129:
+      Name: res/prefabs/battlehero_canvas.unity3d
+      Dependencies:
+        Dependency_0: res/ui/battleui.unity3d
+        Dependency_1: res/ui/common/button.unity3d
+    Info_130:
+      Name: res/prefabs/battlewindow.unity3d
+      Dependencies:
+        Dependency_0: res/ui/common/button.unity3d
+    Info_131:
+      Name: res/prefabs/common_btn.unity3d
+      Dependencies: {}
+    Info_132:
+      Name: res/prefabs/common_img.unity3d
+      Dependencies: {}
+    Info_133:
+      Name: res/prefabs/common_txt.unity3d
+      Dependencies: {}
+    Info_134:
+      Name: res/prefabs/defaulttip.unity3d
+      Dependencies:
+        Dependency_0: res/ui/common/windowbg.unity3d
+    Info_135:
+      Name: res/prefabs/herowindow.unity3d
+      Dependencies:
+        Dependency_0: res/font/text.unity3d
+        Dependency_1: res/spineani/battleani/binnvc.unity3d
+        Dependency_2: res/ui/common/button.unity3d
+        Dependency_3: res/ui/common/scenebackgroud1.unity3d
+        Dependency_4: res/ui/common/windowbg.unity3d
+    Info_136:
+      Name: res/prefabs/item.unity3d
+      Dependencies:
+        Dependency_0: res/ui/common/button.unity3d
+    Info_137:
+      Name: res/prefabs/loadingwindow.unity3d
+      Dependencies: {}
+    Info_138:
+      Name: res/prefabs/loginwindow.unity3d
+      Dependencies: {}
+    Info_139:
+      Name: res/prefabs/mainwindow.unity3d
+      Dependencies:
+        Dependency_0: res/ui/common/button.unity3d
+    Info_140:
+      Name: res/prefabs/taskwindow.unity3d
+      Dependencies:
+        Dependency_0: res/font/text.unity3d
+        Dependency_1: res/ui/common/button.unity3d
+        Dependency_2: res/ui/common/scenebackgroud1.unity3d
+        Dependency_3: res/ui/common/windowbg.unity3d
+    Info_141:
+      Name: res/prefabs/taskwindow_item.unity3d
+      Dependencies:
+        Dependency_0: res/font/text.unity3d
+        Dependency_1: res/ui/common/button3.unity3d
+        Dependency_2: res/ui/common/slider3.unity3d
+        Dependency_3: res/ui/common/windowbg.unity3d
+        Dependency_4: res/ui/task/taskui.unity3d
+    Info_142:
+      Name: res/prefabs/txt_battlenum_1.unity3d
+      Dependencies:
+        Dependency_0: res/font/battlenum_1.unity3d
+    Info_143:
+      Name: res/prefabs/txt_battlenum_2.unity3d
+      Dependencies:
+        Dependency_0: res/font/battlenum_2.unity3d
+    Info_144:
+      Name: res/prefabs/txt_battlenum_3.unity3d
+      Dependencies:
+        Dependency_0: res/font/battlenum_3.unity3d
+    Info_145:
+      Name: res/prefabs/txt_battlenum_4.unity3d
+      Dependencies:
+        Dependency_0: res/font/battlenum_4.unity3d
+    Info_146:
+      Name: res/prefabs/txt_battlenum_5.unity3d
+      Dependencies:
+        Dependency_0: res/font/battlenum_5.unity3d
+    Info_147:
+      Name: res/spineani/battleani/binnvc.unity3d
+      Dependencies: {}
+    Info_148:
+      Name: res/spineani/battleani/houwangc.unity3d
+      Dependencies: {}
+    Info_149:
+      Name: res/spineani/battleskill/binci.unity3d
+      Dependencies: {}
+    Info_150:
+      Name: res/spineani/battleskill/wukongc.unity3d
+      Dependencies: {}
+    Info_151:
+      Name: res/spineani/signaward/qiandao.unity3d
+      Dependencies: {}
+    Info_152:
+      Name: res/ui/battleui.unity3d
+      Dependencies: {}
+    Info_153:
+      Name: res/ui/common/button.unity3d
+      Dependencies: {}
+    Info_154:
+      Name: res/ui/common/button3.unity3d
+      Dependencies: {}
+    Info_155:
+      Name: res/ui/common/herocamp.unity3d
+      Dependencies: {}
+    Info_156:
+      Name: res/ui/common/material.unity3d
+      Dependencies: {}
+    Info_157:
+      Name: res/ui/common/scenebackgroud1.unity3d
+      Dependencies: {}
+    Info_158:
+      Name: res/ui/common/slider1.unity3d
+      Dependencies: {}
+    Info_159:
+      Name: res/ui/common/slider2.unity3d
+      Dependencies: {}
+    Info_160:
+      Name: res/ui/common/slider3.unity3d
+      Dependencies: {}
+    Info_161:
+      Name: res/ui/common/slider4.unity3d
+      Dependencies: {}
+    Info_162:
+      Name: res/ui/common/windowbg.unity3d
+      Dependencies: {}
+    Info_163:
+      Name: res/ui/loginwindow.unity3d
+      Dependencies: {}
+    Info_164:
+      Name: res/ui/mainwindow.unity3d
+      Dependencies: {}
+    Info_165:
+      Name: res/ui/signwindow.unity3d
+      Dependencies: {}
+    Info_166:
+      Name: res/ui/task/taskui.unity3d
+      Dependencies: {}

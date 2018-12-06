@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 63570945
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 506a387c1002c7f82a39175e9a60f09b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/UI/Common/Button/button_04.png
+- Assets/res/Default/UI/Common/Button/clos.png
+- Assets/res/Default/UI/Common/Button/close.png
+- Assets/res/Default/UI/Common/Button/shuju.png
+- Assets/res/Default/UI/Common/Button/button_06.png
+- Assets/res/Default/UI/Common/Button/button_03.png
+- Assets/res/Default/UI/Common/Button/button_01.png
+- Assets/res/Default/UI/Common/Button/chartlet_touming.png
+- Assets/res/Default/UI/Common/Button/button_05.png
+- Assets/res/Default/UI/Common/Button/button_02.png
+Dependencies: []

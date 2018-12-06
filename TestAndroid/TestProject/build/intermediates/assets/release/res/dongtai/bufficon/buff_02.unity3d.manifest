@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1920465537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bf25642e4c1d7e28b97f46e21e201f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/DongTai/BuffIcon/buff_02.png
+Dependencies: []

@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2023982089
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a8c6d78d5e1521e9f2a7912d5d9d3e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 38467144f999a9570cbd1f428a8a3972
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/Default/Prefabs/BattleHero_canvas.prefab
+Dependencies:
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/battleui.unity3d
+- F:/root/TestResProject/Assets/StreamingAssets/res/ui/common/button.unity3d
