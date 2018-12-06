@@ -6,8 +6,8 @@ namespace AutoCreateCode
 {
      class Program
     {
-        private static string mainName = "引导活动";
-        private static string keyword = "ActivityGuide";
+        private static string mainName = "活动";
+        private static string keyword = "Activity";
         private static string filePath = "I:\\Desktop\\接口\\test.txt";
         private static string outDir = "I:\\Desktop\\接口\\code\\";
         private static int state = 0;//1.写controller 2.写handler

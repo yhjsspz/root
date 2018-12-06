@@ -9,3 +9,14 @@ F:\LocalSvn\AutoCreateCode\AutoCreateCode\obj\Debug\netcoreapp2.0\AutoCreateCode
 F:\LocalSvn\AutoCreateCode\AutoCreateCode\obj\Debug\netcoreapp2.0\AutoCreateCode.AssemblyInfo.cs
 F:\LocalSvn\AutoCreateCode\AutoCreateCode\obj\Debug\netcoreapp2.0\AutoCreateCode.dll
 F:\LocalSvn\AutoCreateCode\AutoCreateCode\obj\Debug\netcoreapp2.0\AutoCreateCode.pdb
+F:\root\AutoCreateCode\AutoCreateCode\bin\Debug\netcoreapp2.0\AutoCreateCode.deps.json
+F:\root\AutoCreateCode\AutoCreateCode\bin\Debug\netcoreapp2.0\AutoCreateCode.runtimeconfig.json
+F:\root\AutoCreateCode\AutoCreateCode\bin\Debug\netcoreapp2.0\AutoCreateCode.runtimeconfig.dev.json
+F:\root\AutoCreateCode\AutoCreateCode\bin\Debug\netcoreapp2.0\AutoCreateCode.dll
+F:\root\AutoCreateCode\AutoCreateCode\bin\Debug\netcoreapp2.0\AutoCreateCode.pdb
+F:\root\AutoCreateCode\AutoCreateCode\obj\Debug\netcoreapp2.0\AutoCreateCode.csprojResolveAssemblyReference.cache
+F:\root\AutoCreateCode\AutoCreateCode\obj\Debug\netcoreapp2.0\AutoCreateCode.csproj.CoreCompileInputs.cache
+F:\root\AutoCreateCode\AutoCreateCode\obj\Debug\netcoreapp2.0\AutoCreateCode.AssemblyInfoInputs.cache
+F:\root\AutoCreateCode\AutoCreateCode\obj\Debug\netcoreapp2.0\AutoCreateCode.AssemblyInfo.cs
+F:\root\AutoCreateCode\AutoCreateCode\obj\Debug\netcoreapp2.0\AutoCreateCode.dll
+F:\root\AutoCreateCode\AutoCreateCode\obj\Debug\netcoreapp2.0\AutoCreateCode.pdb
