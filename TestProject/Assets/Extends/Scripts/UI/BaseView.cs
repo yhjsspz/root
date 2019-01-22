@@ -44,8 +44,14 @@ namespace CFramework
 
             foreach (Transform t in go) {
 
-                if (!_controlList.ContainsKey(t.name)) {
+                if (!_controlList.ContainsKey(t.name))
+                {
                     _controlList.Add(t.name, t);
+                }
+                else {
+
+                    DebugManager.LogWarning("添加重复控件:"+ t.name);
+
                 }
 
                 if (t.childCount > 0) {
@@ -67,7 +73,7 @@ namespace CFramework
             if (preStr != null)
             {
                 go.name = preStr + "_" + go.name;
-                formatChildName(go, preStr);
+                FormatChildName(go, preStr);
             }
             
             go.transform.parent = parent.transform;
@@ -80,15 +86,14 @@ namespace CFramework
             return go;
         }
 
-        private void formatChildName(Transform parent, string preStr) {
+        protected void FormatChildName(Transform parent, string preStr) {
 
             foreach (Transform child in parent) {
-
-                DebugManager.Log("child:" + child.name);
+                
                 child.name = preStr + "_" + child.name;
 
                 if (child.childCount > 0) {
-                    formatChildName(child, preStr);
+                    FormatChildName(child, preStr);
                 }
             }
         }
@@ -96,6 +101,7 @@ namespace CFramework
         public GameObject GetChild(string id) {
             return _controlList[id].gameObject;
         }
+
         public void RemoveAllChild(GameObject parent) {
             for (var i = 0; i < parent.transform.childCount; ++i) {
                 var c = parent.transform.GetChild(i).gameObject;

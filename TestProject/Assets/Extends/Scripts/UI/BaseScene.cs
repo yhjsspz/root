@@ -12,11 +12,16 @@ namespace CFramework
             ProgressCallback = progressCallback;
             CompleteCallback = completeCallback;
 
-            InitLayer(uiRoot);
-
             _modulelList = new Dictionary<string, BaseModule>();
             _windowlList = new Dictionary<string, BaseWindow>();
             _sysWindowlList = new Dictionary<string, BaseWindow>();
+        }
+
+        public virtual void OnInit()
+        {
+
+            InitLayer(_uiRoot);
+
         }
 
         protected Dictionary<string, BaseModule> _modulelList;
@@ -32,10 +37,7 @@ namespace CFramework
         public string LoadingId { get; set; }
         public Action<int> ProgressCallback { get; }
         public Action<BaseScene> CompleteCallback { get; set; }
-
-
-
-
+        
         public void AddModule(GameObject parent, string id, string abName, string assetName, Action<BaseModule> completeCallback) { }
         public void AddWindow(string id, string abName, string assetName, string[] preloadList, bool isModal, bool isCache, bool isClickExit, Action<BaseWindow> completeCallback, Action<int, int> progressCallback) {
 
@@ -124,9 +126,6 @@ namespace CFramework
             }
         }
 
-        public virtual void OnInit() {
-
-        }
         public void RemoveAllModule(bool removeNow = false) { }
         public void RemoveAllSysWindow(bool removeNow = false) { }
         public void RemoveAllTip() { }
