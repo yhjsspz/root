@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 94db691d1d3af5c47876a4fdafeb1a8f
-timeCreated: 1531203665
-licenseType: Free
-TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: gameapp/lua/app/view/window.bytes
-  assetBundleVariant: 

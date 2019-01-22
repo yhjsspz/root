@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 0fbbb26ccf5a23e4d8f438f6df6bfbc5
-timeCreated: 1531203664
-licenseType: Free
-TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: gameapp/lua/app/handler.bytes
-  assetBundleVariant: 

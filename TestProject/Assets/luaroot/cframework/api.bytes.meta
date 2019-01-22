@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 85bce37faf7764e4ea8f6c7fce27af50
-timeCreated: 1531203665
-licenseType: Free
-TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: gameapp/lua/cframework.bytes
-  assetBundleVariant: 

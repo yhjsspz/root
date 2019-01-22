@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 65b3576cdb526f94cbb5ce7abc1f09b7
-timeCreated: 1531203665
-licenseType: Free
-TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: gameapp/lua/app/view/entity.bytes
-  assetBundleVariant: 

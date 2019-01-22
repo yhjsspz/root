@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: da6f1604f53788a4e9117025ce22edc5
-timeCreated: 1531203666
-licenseType: Free
-TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: gameapp/lua/app/const.bytes
-  assetBundleVariant: 
